@@ -1,2 +1,2 @@
-# platcont-linux-release
+# platcont-release
 release app platcont
